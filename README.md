@@ -1,16 +1,16 @@
-## Hi there 👋
+# ─── ⋆ 🖤 ⋆ ───
 
-<!--
-**ingridgusmao/ingridgusmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✧ Bem-vindos ao meu espaço | Ingrid Gusmão
 
-Here are some ideas to get you started:
+Estudante no último ano do Ensino Médio Técnico em TI. Estou em uma nova fase da minha jornada, focada em transformar a teoria em prática constante e dar vida aos meus próprios códigos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acredito que a tecnologia fica mais poderosa quando une uma lógica impecável a uma identidade marcante. Este perfil é o registro da minha evolução nesta reta final.
+
+🐈‍⬛ **O que você vai encontrar por aqui:**
+* **Último Ano:** Projetos finais e consolidação do que aprendi no curso.
+* **Prática:** Repositórios dedicados aos meus códigos de treino diários.
+* **Foco Atual:** Dominar a lógica de programação através da escrita de código.
+
+🌙 *“Fazendo a minha própria boa sorte.”*
+
+─── ⋆ 🖤 ⋆ ───
